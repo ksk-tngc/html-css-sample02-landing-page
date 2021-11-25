@@ -12,5 +12,4 @@
 
 ## フォルダ構成
 
-<img width="300" src="https://user-images.githubusercontent.com/59589496/139016884-5809f036-fab0-4778-aca5-48fccfb842c1.png">
-
+<img width="260" src="https://user-images.githubusercontent.com/59589496/139016884-5809f036-fab0-4778-aca5-48fccfb842c1.png">
